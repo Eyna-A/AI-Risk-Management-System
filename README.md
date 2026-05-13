@@ -1,10 +1,6 @@
 ```markdown
 # AI-Powered Multi-Source Risk Management System
 
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org/)
-[![Flask](https://img.shields.io/badge/Flask-2.0+-green.svg)](https://flask.palletsprojects.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 An end-to-end AI-driven risk management platform that integrates financial, geopolitical, and macroeconomic data to predict market regimes, forecast volatility, price options, run Monte Carlo simulations, and optimize portfolios. The system uses state‑of‑the‑art deep learning techniques including attention mechanisms, gated fusion, and LSTM‑based temporal encoding.
 
